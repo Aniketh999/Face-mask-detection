@@ -2,6 +2,8 @@
 
 
 **This project aims to detect human faces with and without masks in real-time using a machine learning model that leverages transfer learning. The model is trained to detect face mask presence and can be used to prevent COVID-19 virus spreading.**
+
+##
 Features
 Detects human faces with and without masks in real-time using a webcam feed.
 Uses Keras for developing the model and Resnet-50 for training.
