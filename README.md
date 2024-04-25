@@ -5,7 +5,7 @@
 
 ##
 Features
-Detects human faces with and without masks in real-time using a webcam feed.
+Detects *human faces with and without masks* in real-time using a webcam feed.
 Uses Keras for developing the model and Resnet-50 for training.
 Performs data augmentation (horizontal and vertical shift, flip) as a preprocessing step.
 Achieves 99% accuracy while testing with hold-out images.
