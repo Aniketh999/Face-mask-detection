@@ -20,7 +20,6 @@ pip install -r requirements.txt
 ##
 Run the maskDetection.ipynb file to train the model and test its performance.
 ##
-To run the face mask detection application, ensure a webcam is plugged in and run the MaskOrNot.py file.
 Model Training Data
 The training data for this model can be found in the following link:
 Face Mask Detection Training Data
