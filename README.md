@@ -18,7 +18,7 @@ git clone https://github.com/Aniketh999/Face-mask-detection.git
 Install the required libraries:
 pip install -r requirements.txt
 ##
-Run the maskDetection.ipynb file to train the model and test its performance.
+Run the maskDetection.ipynb file to train the model and test its performance 
 ##
 Model Training Data
 The training data for this model can be found in the following link:
